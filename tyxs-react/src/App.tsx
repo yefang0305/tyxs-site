@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router basename="/">
+    <Router basename="/tyxs-site/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />

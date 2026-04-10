@@ -21,9 +21,9 @@ const Navigation = () => {
         <NavLink to="/tools" className={`nav-btn ${isActive('/tools') ? 'active' : ''}`}>
           学习工具
         </NavLink>
-        <button className="nav-btn" onClick={() => alert('视频专区建设中')}>
-          视频专区
-        </button>
+        <NavLink to="/iching.html" className={`nav-btn ${isActive('/iching.html') ? 'active' : ''}`}>
+          易经专区
+        </NavLink>
         <NavLink to="/contact" className={`nav-btn ${isActive('/contact') ? 'active' : ''}`}>
           联系方式
         </NavLink>
