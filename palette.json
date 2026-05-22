@@ -1,0 +1,4428 @@
+{
+  "brand": "ZAOQU",
+  "name": "ZAOQU 造趣拼豆 221 全色系",
+  "version": "image-extracted-2026-05-22",
+  "colorCount": 221,
+  "entries": [
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A01",
+      "name": "",
+      "hex": "#faf7d4",
+      "rgb": [
+        250,
+        247,
+        212
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 355,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A02",
+      "name": "",
+      "hex": "#fcfbdd",
+      "rgb": [
+        252,
+        251,
+        221
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 355,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A03",
+      "name": "",
+      "hex": "#fbf9ac",
+      "rgb": [
+        251,
+        249,
+        172
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 355,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A04",
+      "name": "",
+      "hex": "#f3ee78",
+      "rgb": [
+        243,
+        238,
+        120
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 355,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A05",
+      "name": "",
+      "hex": "#eadd50",
+      "rgb": [
+        234,
+        221,
+        80
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 355,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A06",
+      "name": "",
+      "hex": "#f4b269",
+      "rgb": [
+        244,
+        178,
+        105
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 355,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A07",
+      "name": "",
+      "hex": "#f99368",
+      "rgb": [
+        249,
+        147,
+        104
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 355,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A08",
+      "name": "",
+      "hex": "#fcda66",
+      "rgb": [
+        252,
+        218,
+        102
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 435,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A09",
+      "name": "",
+      "hex": "#eea771",
+      "rgb": [
+        238,
+        167,
+        113
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 435,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A10",
+      "name": "",
+      "hex": "#ec8550",
+      "rgb": [
+        236,
+        133,
+        80
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 435,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A11",
+      "name": "",
+      "hex": "#feddaa",
+      "rgb": [
+        254,
+        221,
+        170
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 435,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A12",
+      "name": "",
+      "hex": "#f2ad83",
+      "rgb": [
+        242,
+        173,
+        131
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 435,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A13",
+      "name": "",
+      "hex": "#f8ce7a",
+      "rgb": [
+        248,
+        206,
+        122
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 435,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A14",
+      "name": "",
+      "hex": "#e76551",
+      "rgb": [
+        231,
+        101,
+        81
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 435,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A15",
+      "name": "",
+      "hex": "#f9f37b",
+      "rgb": [
+        249,
+        243,
+        123
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 515,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A16",
+      "name": "",
+      "hex": "#f7fcaa",
+      "rgb": [
+        247,
+        252,
+        170
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 515,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A17",
+      "name": "",
+      "hex": "#f6e492",
+      "rgb": [
+        246,
+        228,
+        146
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 515,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A18",
+      "name": "",
+      "hex": "#fdcc99",
+      "rgb": [
+        253,
+        204,
+        153
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 515,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A19",
+      "name": "",
+      "hex": "#f58986",
+      "rgb": [
+        245,
+        137,
+        134
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 515,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A20",
+      "name": "",
+      "hex": "#f4db77",
+      "rgb": [
+        244,
+        219,
+        119
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 515,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A21",
+      "name": "",
+      "hex": "#f8e594",
+      "rgb": [
+        248,
+        229,
+        148
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 515,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A22",
+      "name": "",
+      "hex": "#f3fa9a",
+      "rgb": [
+        243,
+        250,
+        154
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 595,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A23",
+      "name": "",
+      "hex": "#ded2c6",
+      "rgb": [
+        222,
+        210,
+        198
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 595,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A24",
+      "name": "",
+      "hex": "#f7f4bd",
+      "rgb": [
+        247,
+        244,
+        189
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 595,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A25",
+      "name": "",
+      "hex": "#fbd991",
+      "rgb": [
+        251,
+        217,
+        145
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 595,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "A",
+      "code": "A26",
+      "name": "",
+      "hex": "#fcce60",
+      "rgb": [
+        252,
+        206,
+        96
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 595,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B01",
+      "name": "",
+      "hex": "#e0ef7e",
+      "rgb": [
+        224,
+        239,
+        126
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 918,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B02",
+      "name": "",
+      "hex": "#78f17e",
+      "rgb": [
+        120,
+        241,
+        126
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 918,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B03",
+      "name": "",
+      "hex": "#acf6bc",
+      "rgb": [
+        172,
+        246,
+        188
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 918,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B04",
+      "name": "",
+      "hex": "#7ade7e",
+      "rgb": [
+        122,
+        222,
+        126
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 918,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B05",
+      "name": "",
+      "hex": "#77db7e",
+      "rgb": [
+        119,
+        219,
+        126
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 918,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B06",
+      "name": "",
+      "hex": "#cfe6ab",
+      "rgb": [
+        207,
+        230,
+        171
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 918,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B07",
+      "name": "",
+      "hex": "#b7e686",
+      "rgb": [
+        183,
+        230,
+        134
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 918,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B08",
+      "name": "",
+      "hex": "#76a77e",
+      "rgb": [
+        118,
+        167,
+        126
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 998,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B09",
+      "name": "",
+      "hex": "#c0efaa",
+      "rgb": [
+        192,
+        239,
+        170
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 998,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B10",
+      "name": "",
+      "hex": "#a7d6bb",
+      "rgb": [
+        167,
+        214,
+        187
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 998,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B11",
+      "name": "",
+      "hex": "#e4ea81",
+      "rgb": [
+        228,
+        234,
+        129
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 998,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B12",
+      "name": "",
+      "hex": "#77be97",
+      "rgb": [
+        119,
+        190,
+        151
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 998,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B13",
+      "name": "",
+      "hex": "#d6ebd7",
+      "rgb": [
+        214,
+        235,
+        215
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 998,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B14",
+      "name": "",
+      "hex": "#b5e67e",
+      "rgb": [
+        181,
+        230,
+        126
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 998,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B15",
+      "name": "",
+      "hex": "#78b27c",
+      "rgb": [
+        120,
+        178,
+        124
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1078,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B16",
+      "name": "",
+      "hex": "#bfefa6",
+      "rgb": [
+        191,
+        239,
+        166
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 1078,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B17",
+      "name": "",
+      "hex": "#e5faad",
+      "rgb": [
+        229,
+        250,
+        173
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 1078,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B18",
+      "name": "",
+      "hex": "#e4ea80",
+      "rgb": [
+        228,
+        234,
+        128
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 1078,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B19",
+      "name": "",
+      "hex": "#96bd91",
+      "rgb": [
+        150,
+        189,
+        145
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 1078,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B20",
+      "name": "",
+      "hex": "#d7ebd6",
+      "rgb": [
+        215,
+        235,
+        214
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 1078,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B21",
+      "name": "",
+      "hex": "#afe1c0",
+      "rgb": [
+        175,
+        225,
+        192
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 1078,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B22",
+      "name": "",
+      "hex": "#cfdc8c",
+      "rgb": [
+        207,
+        220,
+        140
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1158,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B23",
+      "name": "",
+      "hex": "#e5fac1",
+      "rgb": [
+        229,
+        250,
+        193
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 1158,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B24",
+      "name": "",
+      "hex": "#e5faae",
+      "rgb": [
+        229,
+        250,
+        174
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 1158,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B25",
+      "name": "",
+      "hex": "#9cb680",
+      "rgb": [
+        156,
+        182,
+        128
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 1158,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B26",
+      "name": "",
+      "hex": "#fefefc",
+      "rgb": [
+        254,
+        254,
+        252
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 1158,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B27",
+      "name": "",
+      "hex": "#fdfefc",
+      "rgb": [
+        253,
+        254,
+        252
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 1158,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B28",
+      "name": "",
+      "hex": "#fdfefd",
+      "rgb": [
+        253,
+        254,
+        253
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 1158,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B29",
+      "name": "",
+      "hex": "#fefefb",
+      "rgb": [
+        254,
+        254,
+        251
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1238,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B30",
+      "name": "",
+      "hex": "#fefefc",
+      "rgb": [
+        254,
+        254,
+        252
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 1238,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B31",
+      "name": "",
+      "hex": "#fdfefd",
+      "rgb": [
+        253,
+        254,
+        253
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 1238,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "B",
+      "code": "B32",
+      "name": "",
+      "hex": "#fefefd",
+      "rgb": [
+        254,
+        254,
+        253
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 1238,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C01",
+      "name": "",
+      "hex": "#f8fbea",
+      "rgb": [
+        248,
+        251,
+        234
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1483,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C02",
+      "name": "",
+      "hex": "#b9f4f6",
+      "rgb": [
+        185,
+        244,
+        246
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 1483,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C03",
+      "name": "",
+      "hex": "#afdff5",
+      "rgb": [
+        175,
+        223,
+        245
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 1483,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C04",
+      "name": "",
+      "hex": "#60cdf4",
+      "rgb": [
+        96,
+        205,
+        244
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 1483,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C05",
+      "name": "",
+      "hex": "#1eb2de",
+      "rgb": [
+        30,
+        178,
+        222
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 1483,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C06",
+      "name": "",
+      "hex": "#6aabdd",
+      "rgb": [
+        106,
+        171,
+        221
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 1483,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C07",
+      "name": "",
+      "hex": "#557dc4",
+      "rgb": [
+        85,
+        125,
+        196
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 1483,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C08",
+      "name": "",
+      "hex": "#2e60b5",
+      "rgb": [
+        46,
+        96,
+        181
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1563,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C09",
+      "name": "",
+      "hex": "#425bb8",
+      "rgb": [
+        66,
+        91,
+        184
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 1563,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C10",
+      "name": "",
+      "hex": "#4bc4d7",
+      "rgb": [
+        75,
+        196,
+        215
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 1563,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C11",
+      "name": "",
+      "hex": "#43e1d2",
+      "rgb": [
+        67,
+        225,
+        210
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 1563,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C12",
+      "name": "",
+      "hex": "#38445c",
+      "rgb": [
+        56,
+        68,
+        92
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 1563,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C13",
+      "name": "",
+      "hex": "#d3e9f7",
+      "rgb": [
+        211,
+        233,
+        247
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 1563,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C14",
+      "name": "",
+      "hex": "#dcf8fb",
+      "rgb": [
+        220,
+        248,
+        251
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 1563,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C15",
+      "name": "",
+      "hex": "#40beb8",
+      "rgb": [
+        64,
+        190,
+        184
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1643,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C16",
+      "name": "",
+      "hex": "#2d68a0",
+      "rgb": [
+        45,
+        104,
+        160
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 1643,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C17",
+      "name": "",
+      "hex": "#2acfe8",
+      "rgb": [
+        42,
+        207,
+        232
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 1643,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C18",
+      "name": "",
+      "hex": "#31444a",
+      "rgb": [
+        49,
+        68,
+        74
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 1643,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C19",
+      "name": "",
+      "hex": "#358c9b",
+      "rgb": [
+        53,
+        140,
+        155
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 1643,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C20",
+      "name": "",
+      "hex": "#327ba5",
+      "rgb": [
+        50,
+        123,
+        165
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 1643,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C21",
+      "name": "",
+      "hex": "#c9dff7",
+      "rgb": [
+        201,
+        223,
+        247
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 1643,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C22",
+      "name": "",
+      "hex": "#7eb4be",
+      "rgb": [
+        126,
+        180,
+        190
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1723,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C23",
+      "name": "",
+      "hex": "#d1e3f9",
+      "rgb": [
+        209,
+        227,
+        249
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 180,
+        "y": 1723,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C24",
+      "name": "",
+      "hex": "#8ec9f1",
+      "rgb": [
+        142,
+        201,
+        241
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 260,
+        "y": 1723,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C25",
+      "name": "",
+      "hex": "#b7eae5",
+      "rgb": [
+        183,
+        234,
+        229
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 340,
+        "y": 1723,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C26",
+      "name": "",
+      "hex": "#53b3cc",
+      "rgb": [
+        83,
+        179,
+        204
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 420,
+        "y": 1723,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C27",
+      "name": "",
+      "hex": "#d6e3f6",
+      "rgb": [
+        214,
+        227,
+        246
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 500,
+        "y": 1723,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C28",
+      "name": "",
+      "hex": "#c1d2ec",
+      "rgb": [
+        193,
+        210,
+        236
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 580,
+        "y": 1723,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "C",
+      "code": "C29",
+      "name": "",
+      "hex": "#48588a",
+      "rgb": [
+        72,
+        88,
+        138
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162112.jpg",
+      "sample": {
+        "x": 100,
+        "y": 1803,
+        "radius": 30
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D01",
+      "name": "",
+      "hex": "#b5bee9",
+      "rgb": [
+        181,
+        190,
+        233
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 198,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D02",
+      "name": "",
+      "hex": "#9098d7",
+      "rgb": [
+        144,
+        152,
+        215
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 198,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D03",
+      "name": "",
+      "hex": "#4d61a8",
+      "rgb": [
+        77,
+        97,
+        168
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 198,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D04",
+      "name": "",
+      "hex": "#303b7d",
+      "rgb": [
+        48,
+        59,
+        125
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 198,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D05",
+      "name": "",
+      "hex": "#b065c2",
+      "rgb": [
+        176,
+        101,
+        194
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 198,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D06",
+      "name": "",
+      "hex": "#b989d3",
+      "rgb": [
+        185,
+        137,
+        211
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 198,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D07",
+      "name": "",
+      "hex": "#9568aa",
+      "rgb": [
+        149,
+        104,
+        170
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 198,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D08",
+      "name": "",
+      "hex": "#e5d5f9",
+      "rgb": [
+        229,
+        213,
+        249
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 294,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D09",
+      "name": "",
+      "hex": "#dac5f0",
+      "rgb": [
+        218,
+        197,
+        240
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 294,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D10",
+      "name": "",
+      "hex": "#443055",
+      "rgb": [
+        68,
+        48,
+        85
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 294,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D11",
+      "name": "",
+      "hex": "#c6bee3",
+      "rgb": [
+        198,
+        190,
+        227
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 294,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D12",
+      "name": "",
+      "hex": "#daaad0",
+      "rgb": [
+        218,
+        170,
+        208
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 294,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D13",
+      "name": "",
+      "hex": "#ac2292",
+      "rgb": [
+        172,
+        34,
+        146
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 294,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D14",
+      "name": "",
+      "hex": "#8d3b93",
+      "rgb": [
+        141,
+        59,
+        147
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 294,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D15",
+      "name": "",
+      "hex": "#42358d",
+      "rgb": [
+        66,
+        53,
+        141
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 390,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D16",
+      "name": "",
+      "hex": "#e5e5ed",
+      "rgb": [
+        229,
+        229,
+        237
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 390,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D17",
+      "name": "",
+      "hex": "#cdd8f6",
+      "rgb": [
+        205,
+        216,
+        246
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 390,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D18",
+      "name": "",
+      "hex": "#9b74b4",
+      "rgb": [
+        155,
+        116,
+        180
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 390,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D19",
+      "name": "",
+      "hex": "#dac9db",
+      "rgb": [
+        218,
+        201,
+        219
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 390,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D20",
+      "name": "",
+      "hex": "#984eaa",
+      "rgb": [
+        152,
+        78,
+        170
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 390,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D21",
+      "name": "",
+      "hex": "#912192",
+      "rgb": [
+        145,
+        33,
+        146
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 390,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D22",
+      "name": "",
+      "hex": "#4c4a90",
+      "rgb": [
+        76,
+        74,
+        144
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 486,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D23",
+      "name": "",
+      "hex": "#e9e1f8",
+      "rgb": [
+        233,
+        225,
+        248
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 486,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D24",
+      "name": "",
+      "hex": "#8a94db",
+      "rgb": [
+        138,
+        148,
+        219
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 486,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D25",
+      "name": "",
+      "hex": "#5b5eb8",
+      "rgb": [
+        91,
+        94,
+        184
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 486,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "D",
+      "code": "D26",
+      "name": "",
+      "hex": "#d5cce7",
+      "rgb": [
+        213,
+        204,
+        231
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 486,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E01",
+      "name": "",
+      "hex": "#f6dad6",
+      "rgb": [
+        246,
+        218,
+        214
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 838,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E02",
+      "name": "",
+      "hex": "#f4c9da",
+      "rgb": [
+        244,
+        201,
+        218
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 838,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E03",
+      "name": "",
+      "hex": "#f3c5e2",
+      "rgb": [
+        243,
+        197,
+        226
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 838,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E04",
+      "name": "",
+      "hex": "#e472a5",
+      "rgb": [
+        228,
+        114,
+        165
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 838,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E05",
+      "name": "",
+      "hex": "#ea69a5",
+      "rgb": [
+        234,
+        105,
+        165
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 838,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E06",
+      "name": "",
+      "hex": "#e75484",
+      "rgb": [
+        231,
+        84,
+        132
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 838,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E07",
+      "name": "",
+      "hex": "#b45077",
+      "rgb": [
+        180,
+        80,
+        119
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 838,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E08",
+      "name": "",
+      "hex": "#f0d8e5",
+      "rgb": [
+        240,
+        216,
+        229
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 934,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E09",
+      "name": "",
+      "hex": "#e285c3",
+      "rgb": [
+        226,
+        133,
+        195
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 934,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E10",
+      "name": "",
+      "hex": "#d14d96",
+      "rgb": [
+        209,
+        77,
+        150
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 934,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E11",
+      "name": "",
+      "hex": "#f9dcd8",
+      "rgb": [
+        249,
+        220,
+        216
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 934,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E12",
+      "name": "",
+      "hex": "#fb9bc4",
+      "rgb": [
+        251,
+        155,
+        196
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 934,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E13",
+      "name": "",
+      "hex": "#b21d74",
+      "rgb": [
+        178,
+        29,
+        116
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 934,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E14",
+      "name": "",
+      "hex": "#f6d9c9",
+      "rgb": [
+        246,
+        217,
+        201
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 934,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E15",
+      "name": "",
+      "hex": "#eececd",
+      "rgb": [
+        238,
+        206,
+        205
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1030,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E16",
+      "name": "",
+      "hex": "#f8f3ef",
+      "rgb": [
+        248,
+        243,
+        239
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1030,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E17",
+      "name": "",
+      "hex": "#f2e7ed",
+      "rgb": [
+        242,
+        231,
+        237
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1030,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E18",
+      "name": "",
+      "hex": "#facfd9",
+      "rgb": [
+        250,
+        207,
+        217
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 1030,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E19",
+      "name": "",
+      "hex": "#f1c6cf",
+      "rgb": [
+        241,
+        198,
+        207
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 1030,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E20",
+      "name": "",
+      "hex": "#d5cbca",
+      "rgb": [
+        213,
+        203,
+        202
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 1030,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E21",
+      "name": "",
+      "hex": "#c0a9af",
+      "rgb": [
+        192,
+        169,
+        175
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 1030,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E22",
+      "name": "",
+      "hex": "#bb95a0",
+      "rgb": [
+        187,
+        149,
+        160
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1126,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E23",
+      "name": "",
+      "hex": "#9a8991",
+      "rgb": [
+        154,
+        137,
+        145
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1126,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "E",
+      "code": "E24",
+      "name": "",
+      "hex": "#dcc4de",
+      "rgb": [
+        220,
+        196,
+        222
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1126,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F01",
+      "name": "",
+      "hex": "#f6a79a",
+      "rgb": [
+        246,
+        167,
+        154
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1476,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F02",
+      "name": "",
+      "hex": "#ef6064",
+      "rgb": [
+        239,
+        96,
+        100
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1476,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F03",
+      "name": "",
+      "hex": "#e96f60",
+      "rgb": [
+        233,
+        111,
+        96
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1476,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F04",
+      "name": "",
+      "hex": "#ef5368",
+      "rgb": [
+        239,
+        83,
+        104
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 1476,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F05",
+      "name": "",
+      "hex": "#dd324c",
+      "rgb": [
+        221,
+        50,
+        76
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 1476,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F06",
+      "name": "",
+      "hex": "#9e575d",
+      "rgb": [
+        158,
+        87,
+        93
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 1476,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F07",
+      "name": "",
+      "hex": "#9a4250",
+      "rgb": [
+        154,
+        66,
+        80
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 1476,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F08",
+      "name": "",
+      "hex": "#c22d4a",
+      "rgb": [
+        194,
+        45,
+        74
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1572,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F09",
+      "name": "",
+      "hex": "#e4828f",
+      "rgb": [
+        228,
+        130,
+        143
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1572,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F10",
+      "name": "",
+      "hex": "#99654f",
+      "rgb": [
+        153,
+        101,
+        79
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1572,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F11",
+      "name": "",
+      "hex": "#714949",
+      "rgb": [
+        113,
+        73,
+        73
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 1572,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F12",
+      "name": "",
+      "hex": "#ef7285",
+      "rgb": [
+        239,
+        114,
+        133
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 1572,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F13",
+      "name": "",
+      "hex": "#f3756a",
+      "rgb": [
+        243,
+        117,
+        106
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 1572,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F14",
+      "name": "",
+      "hex": "#f8babd",
+      "rgb": [
+        248,
+        186,
+        189
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 1572,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F15",
+      "name": "",
+      "hex": "#d5334e",
+      "rgb": [
+        213,
+        51,
+        78
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1668,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F16",
+      "name": "",
+      "hex": "#f1cbb8",
+      "rgb": [
+        241,
+        203,
+        184
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1668,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F17",
+      "name": "",
+      "hex": "#eaad91",
+      "rgb": [
+        234,
+        173,
+        145
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1668,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F18",
+      "name": "",
+      "hex": "#d3926a",
+      "rgb": [
+        211,
+        146,
+        106
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 1668,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F19",
+      "name": "",
+      "hex": "#c1646a",
+      "rgb": [
+        193,
+        100,
+        106
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 498,
+        "y": 1668,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F20",
+      "name": "",
+      "hex": "#cfa4a9",
+      "rgb": [
+        207,
+        164,
+        169
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 593,
+        "y": 1668,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F21",
+      "name": "",
+      "hex": "#eec5cb",
+      "rgb": [
+        238,
+        197,
+        203
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 688,
+        "y": 1668,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F22",
+      "name": "",
+      "hex": "#f1ced4",
+      "rgb": [
+        241,
+        206,
+        212
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1764,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F23",
+      "name": "",
+      "hex": "#ed9589",
+      "rgb": [
+        237,
+        149,
+        137
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1764,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F24",
+      "name": "",
+      "hex": "#e8b0bb",
+      "rgb": [
+        232,
+        176,
+        187
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1764,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "F",
+      "code": "F25",
+      "name": "",
+      "hex": "#e56876",
+      "rgb": [
+        229,
+        104,
+        118
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162130.jpg",
+      "sample": {
+        "x": 403,
+        "y": 1764,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G01",
+      "name": "",
+      "hex": "#f6eada",
+      "rgb": [
+        246,
+        234,
+        218
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 201,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G02",
+      "name": "",
+      "hex": "#f3c6b3",
+      "rgb": [
+        243,
+        198,
+        179
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 201,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G03",
+      "name": "",
+      "hex": "#f0cbb9",
+      "rgb": [
+        240,
+        203,
+        185
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 201,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G04",
+      "name": "",
+      "hex": "#d8ba98",
+      "rgb": [
+        216,
+        186,
+        152
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 201,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G05",
+      "name": "",
+      "hex": "#e2b476",
+      "rgb": [
+        226,
+        180,
+        118
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 201,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G06",
+      "name": "",
+      "hex": "#dca534",
+      "rgb": [
+        220,
+        165,
+        52
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 201,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G07",
+      "name": "",
+      "hex": "#9c6f50",
+      "rgb": [
+        156,
+        111,
+        80
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 201,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G08",
+      "name": "",
+      "hex": "#7a4f44",
+      "rgb": [
+        122,
+        79,
+        68
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 297,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G09",
+      "name": "",
+      "hex": "#dfbb99",
+      "rgb": [
+        223,
+        187,
+        153
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 297,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G10",
+      "name": "",
+      "hex": "#d58f5f",
+      "rgb": [
+        213,
+        143,
+        95
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 297,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G11",
+      "name": "",
+      "hex": "#dbcca1",
+      "rgb": [
+        219,
+        204,
+        161
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 297,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G12",
+      "name": "",
+      "hex": "#facda4",
+      "rgb": [
+        250,
+        205,
+        164
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 297,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G13",
+      "name": "",
+      "hex": "#bb7b5b",
+      "rgb": [
+        187,
+        123,
+        91
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 297,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G14",
+      "name": "",
+      "hex": "#917560",
+      "rgb": [
+        145,
+        117,
+        96
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 297,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G15",
+      "name": "",
+      "hex": "#f9f7eb",
+      "rgb": [
+        249,
+        247,
+        235
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 393,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G16",
+      "name": "",
+      "hex": "#efdac5",
+      "rgb": [
+        239,
+        218,
+        197
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 393,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G17",
+      "name": "",
+      "hex": "#806461",
+      "rgb": [
+        128,
+        100,
+        97
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 393,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G18",
+      "name": "",
+      "hex": "#fde5d9",
+      "rgb": [
+        253,
+        229,
+        217
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 393,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G19",
+      "name": "",
+      "hex": "#de895e",
+      "rgb": [
+        222,
+        137,
+        94
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 393,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G20",
+      "name": "",
+      "hex": "#b0524c",
+      "rgb": [
+        176,
+        82,
+        76
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 393,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "G",
+      "code": "G21",
+      "name": "",
+      "hex": "#b39075",
+      "rgb": [
+        179,
+        144,
+        117
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 393,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H01",
+      "name": "",
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 744,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H02",
+      "name": "",
+      "hex": "#fdfffa",
+      "rgb": [
+        253,
+        255,
+        250
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 744,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H03",
+      "name": "",
+      "hex": "#b9bab5",
+      "rgb": [
+        185,
+        186,
+        181
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 744,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H04",
+      "name": "",
+      "hex": "#91938e",
+      "rgb": [
+        145,
+        147,
+        142
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 744,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H05",
+      "name": "",
+      "hex": "#555752",
+      "rgb": [
+        85,
+        87,
+        82
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 744,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H06",
+      "name": "",
+      "hex": "#3b3c37",
+      "rgb": [
+        59,
+        60,
+        55
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 744,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H07",
+      "name": "",
+      "hex": "#aaaaaa",
+      "rgb": [
+        170,
+        170,
+        170
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 744,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H08",
+      "name": "",
+      "hex": "#e7dbdb",
+      "rgb": [
+        231,
+        219,
+        219
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 840,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H09",
+      "name": "",
+      "hex": "#f2eeeb",
+      "rgb": [
+        242,
+        238,
+        235
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 840,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H10",
+      "name": "",
+      "hex": "#eceee9",
+      "rgb": [
+        236,
+        238,
+        233
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 840,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H11",
+      "name": "",
+      "hex": "#d1d3ce",
+      "rgb": [
+        209,
+        211,
+        206
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 840,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H12",
+      "name": "",
+      "hex": "#fbf8f3",
+      "rgb": [
+        251,
+        248,
+        243
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 840,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H13",
+      "name": "",
+      "hex": "#f5f2df",
+      "rgb": [
+        245,
+        242,
+        223
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 840,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H14",
+      "name": "",
+      "hex": "#d2ddd5",
+      "rgb": [
+        210,
+        221,
+        213
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 840,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H15",
+      "name": "",
+      "hex": "#a0acac",
+      "rgb": [
+        160,
+        172,
+        172
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 936,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H16",
+      "name": "",
+      "hex": "#3d3533",
+      "rgb": [
+        61,
+        53,
+        51
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 936,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H17",
+      "name": "",
+      "hex": "#f3efec",
+      "rgb": [
+        243,
+        239,
+        236
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 936,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H18",
+      "name": "",
+      "hex": "#fdfcfa",
+      "rgb": [
+        253,
+        252,
+        250
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 936,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H19",
+      "name": "",
+      "hex": "#f3efe6",
+      "rgb": [
+        243,
+        239,
+        230
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 936,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H20",
+      "name": "",
+      "hex": "#a1aba3",
+      "rgb": [
+        161,
+        171,
+        163
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 936,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H21",
+      "name": "",
+      "hex": "#fbfae6",
+      "rgb": [
+        251,
+        250,
+        230
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 936,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H22",
+      "name": "",
+      "hex": "#d4cad2",
+      "rgb": [
+        212,
+        202,
+        210
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1032,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "H",
+      "code": "H23",
+      "name": "",
+      "hex": "#a2a39e",
+      "rgb": [
+        162,
+        163,
+        158
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1032,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M01",
+      "name": "",
+      "hex": "#c6c9b4",
+      "rgb": [
+        198,
+        201,
+        180
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1403,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M02",
+      "name": "",
+      "hex": "#9aa19a",
+      "rgb": [
+        154,
+        161,
+        154
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1403,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M03",
+      "name": "",
+      "hex": "#738680",
+      "rgb": [
+        115,
+        134,
+        128
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1403,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M04",
+      "name": "",
+      "hex": "#e0dbc8",
+      "rgb": [
+        224,
+        219,
+        200
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 1403,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M05",
+      "name": "",
+      "hex": "#d2d0bb",
+      "rgb": [
+        210,
+        208,
+        187
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 1403,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M06",
+      "name": "",
+      "hex": "#b6b19b",
+      "rgb": [
+        182,
+        177,
+        155
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 1403,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M07",
+      "name": "",
+      "hex": "#b8b2a6",
+      "rgb": [
+        184,
+        178,
+        166
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 1403,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M08",
+      "name": "",
+      "hex": "#af908e",
+      "rgb": [
+        175,
+        144,
+        142
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1499,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M09",
+      "name": "",
+      "hex": "#ab907d",
+      "rgb": [
+        171,
+        144,
+        125
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 213,
+        "y": 1499,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M10",
+      "name": "",
+      "hex": "#ccbbc1",
+      "rgb": [
+        204,
+        187,
+        193
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 308,
+        "y": 1499,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M11",
+      "name": "",
+      "hex": "#a58497",
+      "rgb": [
+        165,
+        132,
+        151
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 403,
+        "y": 1499,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M12",
+      "name": "",
+      "hex": "#735966",
+      "rgb": [
+        115,
+        89,
+        102
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 498,
+        "y": 1499,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M13",
+      "name": "",
+      "hex": "#c49c78",
+      "rgb": [
+        196,
+        156,
+        120
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 593,
+        "y": 1499,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M14",
+      "name": "",
+      "hex": "#c07d77",
+      "rgb": [
+        192,
+        125,
+        119
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 688,
+        "y": 1499,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    },
+    {
+      "brand": "ZAOQU",
+      "series": "M",
+      "code": "M15",
+      "name": "",
+      "hex": "#818586",
+      "rgb": [
+        129,
+        133,
+        134
+      ],
+      "type": "solid",
+      "source": "微信图片_20260522162135.jpg",
+      "sample": {
+        "x": 118,
+        "y": 1595,
+        "radius": 36
+      },
+      "note": "Extracted from catalog image; verify against physical beads before production use."
+    }
+  ]
+}

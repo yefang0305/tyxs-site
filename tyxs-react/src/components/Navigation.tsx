@@ -13,7 +13,7 @@ const Navigation = () => {
     <div className="nav-bar">
       <div className="nav">
         <NavLink to="/" className={`nav-btn ${isActive('/') ? 'active' : ''}`}>
-          首页
+          工具导航
         </NavLink>
         <NavLink to="/articles" className={`nav-btn ${isActive('/articles') ? 'active' : ''}`}>
           文章专区
